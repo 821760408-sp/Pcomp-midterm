@@ -1,0 +1,20 @@
+{
+  "min_acc_x": 193,
+  "max_acc_x": 406,
+  "min_acc_y": 156,
+  "max_acc_y": 367,
+  "min_acc_z": 194,
+  "max_acc_z": 453,
+  "min_jerk_x": -1248,
+  "max_jerk_x": 1361,
+  "min_jerk_y": -708,
+  "max_jerk_y": 558,
+  "min_jerk_z": -553,
+  "max_jerk_z": 836,
+  "min_jounce_x": -34515,
+  "max_jounce_x": 35482,
+  "min_jounce_y": -16344,
+  "max_jounce_y": 12919,
+  "min_jounce_z": -16042,
+  "max_jounce_z": 20945
+}
